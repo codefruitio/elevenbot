@@ -3,20 +3,7 @@ You'll need a Discord bot to get started. Here is a reference for how to set one
 
 https://discord.com/developers/docs/getting-started
 
-You'll also need to grap your API key from your ElevenLabs profile
-
-## pull
-```docker
-# pull image from dockerhub
-docker pull tylerplesetz/elevenbot:latest
-```
-
-## build
-```docker
-# build image
-sudo docker build -t elevenbot .
-```
-
+You'll also need to grab your API key from your ElevenLabs profile
 
 ## run
 ```docker
